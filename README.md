@@ -27,9 +27,9 @@ Para a criação da tabela de dimensão temporal dinâmica, foi utilizada a ling
 
 ## 📐 Visualização do Modelo Relacional
 
-![Modelo de Dados Star Schema](insira_aqui_o_link_do_print_da_sua_tela.png)
+![Modelo de Dados Star Schema](/imagens/starschema.png)
 
-O modelo final apresenta cardinalidade de 1 para muitos (1:) com fluxo de filtragem direcionado das tabelas dimensão para a tabela fato.*
+O modelo final apresenta cardinalidade de 1 para muitos (1:) com fluxo de filtragem direcionado das tabelas dimensão para a tabela fato.
 
 ## 👨‍💻 Autor
 Desenvolvido por **Gabriela Pereira das Neves** no âmbito da jornada de transição e especialização em Dados e Tecnologia.
